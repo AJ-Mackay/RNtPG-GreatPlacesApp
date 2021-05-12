@@ -8,3 +8,4 @@ Lectures Completed on 12/5/21:
 * Working with Offline Asset Bundles
 * Using "Over the Air Updates" (OTA Updates)
 * Exposed API Key - removed from Google & Regenerated
+* Fixing Expo Changes
