@@ -9,7 +9,7 @@ const ImgPicker = props => {
     const [pickedImage, setPickedImage] = useState();
 
     const verifyPermissions = async () => {
-        const result = await Permissions.askAsync(Permissions.CAMERA, Permissions.MEDIA_LIBRARY); // CAMERA_ROLL depreciated
+        const result = await Permissions.askAsync(Permissions.CAMERA, Permissions.MEDIA_LIBRARY);
         if (result.status !== 'granted') {
             Alert.alert(
                 'Insufficient permissions!',
