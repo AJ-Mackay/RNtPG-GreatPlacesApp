@@ -49,7 +49,7 @@ const NewPlaceScreen = props => {
 };
 
 NewPlaceScreen.navigationOptions = {
-    headerTitle: 'Add Place'
+    headerTitle: 'Add New Place'
 };
 
 const styles = StyleSheet.create({

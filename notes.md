@@ -6,3 +6,4 @@ Lectures Completed on 12/5/21:
 * Configuring the App & Publishing - https://expo.io/@paulmackay85/projects/great-places
 * Configuring Icons & The Splash Screen
 * Working with Offline Asset Bundles
+* Using "Over the Air Updates" (OTA Updates)
