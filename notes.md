@@ -13,3 +13,4 @@ Lectures Completed on 12/5/21:
 Lectures Completed on 13/5/21:
 
 * Building the Apps for Deployment (iOS & Android)
+* Publishing iOS Apps without Expo
