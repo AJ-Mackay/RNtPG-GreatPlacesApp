@@ -9,3 +9,7 @@ Lectures Completed on 12/5/21:
 * Using "Over the Air Updates" (OTA Updates)
 * Exposed API Key - removed from Google & Regenerated
 * Fixing Expo Changes
+
+Lectures Completed on 13/5/21:
+
+* Building the Apps for Deployment (iOS & Android)
